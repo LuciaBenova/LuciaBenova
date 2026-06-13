@@ -1,19 +1,36 @@
 # Hi 👋, I'm Lucia Beňová
 
-### Graduate of a Graphic Design School and currently studying Computer Science. Interested in software development, web applications, and modern technologies.
+## Technologies
 
-- 🔭 I'm currently working on ** studying Computer Science. 
 - Java
 - Spring Boot
 - Angular
 - TypeScript
 - JavaScript
 - Node.js
-- SQL databases
+- SQL Databases
+- Docker
+- Git
 
-**
+## Projects
 
-- 🌱 I'm currently learning **my backend and frontend development skills.**
+### 📚 School Grade Book
+Student grade management system developed as a school project.
+
+**Technologies:**
+- Node.js
+- Express.js
+- MariaDB
+- Docker
+
+### 🐶 Buchtošové svetielko nádeje
+Animal shelter management and adoption platform.
+
+**Technologies:**
+- Angular
+- Spring Boot
+- PostgreSQL
+- JWT Authentication
 
 - 📫 How to reach me **lucka.benova33@gmail.com**
 
